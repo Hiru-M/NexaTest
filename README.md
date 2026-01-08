@@ -53,13 +53,13 @@ The module implements **seven maintainability-focused rules**:
 
 ## Project Structure
 cra/
-├── engine/ # Core rule engine and base rule definitions
-├── rules/ # Individual rule implementations
-├── config/ # Rule configuration files
-├── samples/ # Sample Python files for testing
-├── tests/ # Unit and integration tests
-├── run_analysis.py # CLI entry point
-└── README.md
+engine/ # Core rule engine and base rule definitions
+rules/ # Individual rule implementations
+config/ # Rule configuration files
+samples/ # Sample Python files for testing
+tests/ # Unit and integration tests
+run_analysis.py # CLI entry point
+README.md
 ---
 
 ## Configuration
